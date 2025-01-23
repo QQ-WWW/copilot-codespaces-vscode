@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="utf-8">
+	<title>你好！！</title>
+	<link rel="stylesheet" href="https://www.retiehe.com/css/template.css">
+</head>
+<body>
+	<div class="bg-img"></div>
+	<header>你好！！</header>
+	<main>
+		<h1>这是快捷方式</h1>
+		<p>快捷方式在下面</p>
+	</main>
+</body>
+	<a href="https://www.baidu.com/">
+		<button>点这里搜索引擎</button>
+	</a>
+	<a href="https://host.retiehe.com/">
+	    <button>想自己创网站的点这</button>
+	</a>
+			<a href="https://wallhaven.icu/">
+	    <button>壁纸大全点这里</button>
+	</a>
+			<a href="https://9e7h.rth1.app/404.html">
+	    <button>点这有惊喜</button>
+	</a>
+	
+			<a href="https://9e10h.rth1.app">
+	    <button>领取学习资料</button>
+	</a>
+</html>
